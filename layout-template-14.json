@@ -1,0 +1,53 @@
+{
+  "id": "layout-template-14",
+  "templateFile": "/templates/14.png",
+  "width": 600,
+  "height": 1800,
+  "slotCount": 4,
+  "slots": [
+    {
+      "slotNumber": 1,
+      "x": 42,
+      "y": 116,
+      "width": 520,
+      "height": 297,
+      "rotation": 0,
+      "fit": "cover",
+      "radius": 0,
+      "opacity": 1
+    },
+    {
+      "slotNumber": 2,
+      "x": 42,
+      "y": 532,
+      "width": 520,
+      "height": 297,
+      "rotation": 0,
+      "fit": "cover",
+      "radius": 0,
+      "opacity": 1
+    },
+    {
+      "slotNumber": 3,
+      "x": 42,
+      "y": 948,
+      "width": 520,
+      "height": 297,
+      "rotation": 0,
+      "fit": "cover",
+      "radius": 0,
+      "opacity": 1
+    },
+    {
+      "slotNumber": 4,
+      "x": 42,
+      "y": 1362,
+      "width": 520,
+      "height": 298,
+      "rotation": 0,
+      "fit": "cover",
+      "radius": 0,
+      "opacity": 1
+    }
+  ]
+}
