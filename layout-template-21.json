@@ -6,36 +6,36 @@
     "slotCount":  3,
     "slots":  [
                   {
-                      "y":  124,
-                      "height":  477,
-                      "x":  116,
+                      "y":  125,
+                      "height":  476,
+                      "x":  117,
                       "fit":  "cover",
                       "opacity":  1,
                       "slotNumber":  1,
                       "radius":  0,
-                      "width":  368,
+                      "width":  366,
                       "rotation":  0
                   },
                   {
                       "y":  659,
                       "height":  477,
-                      "x":  116,
+                      "x":  117,
                       "fit":  "cover",
                       "opacity":  1,
                       "slotNumber":  2,
                       "radius":  0,
-                      "width":  368,
+                      "width":  366,
                       "rotation":  0
                   },
                   {
                       "y":  1194,
                       "height":  477,
-                      "x":  116,
+                      "x":  117,
                       "fit":  "cover",
                       "opacity":  1,
                       "slotNumber":  3,
                       "radius":  0,
-                      "width":  368,
+                      "width":  366,
                       "rotation":  0
                   }
               ]

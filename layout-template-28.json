@@ -6,47 +6,47 @@
     "slotCount":  4,
     "slots":  [
                   {
-                      "y":  70,
-                      "height":  335,
-                      "x":  65,
+                      "y":  81,
+                      "height":  313,
+                      "x":  175,
                       "fit":  "cover",
                       "opacity":  1,
                       "slotNumber":  1,
                       "radius":  0,
-                      "width":  480,
+                      "width":  358,
                       "rotation":  0
                   },
                   {
-                      "y":  469,
-                      "height":  335,
-                      "x":  65,
+                      "y":  481,
+                      "height":  312,
+                      "x":  176,
                       "fit":  "cover",
                       "opacity":  1,
                       "slotNumber":  2,
                       "radius":  0,
-                      "width":  480,
+                      "width":  357,
                       "rotation":  0
                   },
                   {
-                      "y":  869,
-                      "height":  335,
-                      "x":  65,
+                      "y":  881,
+                      "height":  312,
+                      "x":  177,
                       "fit":  "cover",
                       "opacity":  1,
                       "slotNumber":  3,
                       "radius":  0,
-                      "width":  480,
+                      "width":  356,
                       "rotation":  0
                   },
                   {
-                      "y":  1269,
-                      "height":  335,
-                      "x":  65,
+                      "y":  1281,
+                      "height":  312,
+                      "x":  180,
                       "fit":  "cover",
                       "opacity":  1,
                       "slotNumber":  4,
                       "radius":  0,
-                      "width":  480,
+                      "width":  346,
                       "rotation":  0
                   }
               ]

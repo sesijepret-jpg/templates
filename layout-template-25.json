@@ -6,8 +6,8 @@
     "slotCount":  3,
     "slots":  [
                   {
-                      "y":  240,
-                      "height":  289,
+                      "y":  239,
+                      "height":  290,
                       "x":  60,
                       "fit":  "cover",
                       "opacity":  1,
@@ -18,19 +18,19 @@
                   },
                   {
                       "y":  687,
-                      "height":  289,
-                      "x":  60,
+                      "height":  290,
+                      "x":  66,
                       "fit":  "cover",
                       "opacity":  1,
                       "slotNumber":  2,
                       "radius":  0,
-                      "width":  480,
+                      "width":  479,
                       "rotation":  0
                   },
                   {
                       "y":  1135,
                       "height":  289,
-                      "x":  60,
+                      "x":  62,
                       "fit":  "cover",
                       "opacity":  1,
                       "slotNumber":  3,

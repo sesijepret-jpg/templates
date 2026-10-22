@@ -8,45 +8,45 @@
                   {
                       "y":  98,
                       "height":  337,
-                      "x":  59,
+                      "x":  60,
                       "fit":  "cover",
                       "opacity":  1,
                       "slotNumber":  1,
                       "radius":  0,
-                      "width":  481,
+                      "width":  480,
                       "rotation":  0
                   },
                   {
                       "y":  489,
                       "height":  331,
-                      "x":  59,
+                      "x":  60,
                       "fit":  "cover",
                       "opacity":  1,
                       "slotNumber":  2,
                       "radius":  0,
-                      "width":  481,
+                      "width":  480,
                       "rotation":  0
                   },
                   {
                       "y":  874,
                       "height":  334,
-                      "x":  59,
+                      "x":  60,
                       "fit":  "cover",
                       "opacity":  1,
                       "slotNumber":  3,
                       "radius":  0,
-                      "width":  481,
+                      "width":  480,
                       "rotation":  0
                   },
                   {
                       "y":  1263,
                       "height":  334,
-                      "x":  59,
+                      "x":  60,
                       "fit":  "cover",
                       "opacity":  1,
                       "slotNumber":  4,
                       "radius":  0,
-                      "width":  481,
+                      "width":  480,
                       "rotation":  0
                   }
               ]
