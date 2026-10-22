@@ -1,42 +1,42 @@
-{
-  "id": "layout-template-21",
-  "templateFile": "/templates/21.png",
-  "width": 600,
-  "height": 1800,
-  "slotCount": 3,
-  "slots": [
-    {
-      "slotNumber": 1,
-      "x": 112,
-      "y": 120,
-      "width": 376,
-      "height": 485,
-      "rotation": 0,
-      "fit": "cover",
-      "radius": 0,
-      "opacity": 1
-    },
-    {
-      "slotNumber": 2,
-      "x": 112,
-      "y": 655,
-      "width": 376,
-      "height": 485,
-      "rotation": 0,
-      "fit": "cover",
-      "radius": 0,
-      "opacity": 1
-    },
-    {
-      "slotNumber": 3,
-      "x": 112,
-      "y": 1190,
-      "width": 376,
-      "height": 485,
-      "rotation": 0,
-      "fit": "cover",
-      "radius": 0,
-      "opacity": 1
-    }
-  ]
+﻿{
+    "id":  "layout-template-21",
+    "templateFile":  "/templates/21.png",
+    "width":  600,
+    "height":  1800,
+    "slotCount":  3,
+    "slots":  [
+                  {
+                      "y":  124,
+                      "height":  477,
+                      "x":  116,
+                      "fit":  "cover",
+                      "opacity":  1,
+                      "slotNumber":  1,
+                      "radius":  0,
+                      "width":  368,
+                      "rotation":  0
+                  },
+                  {
+                      "y":  659,
+                      "height":  477,
+                      "x":  116,
+                      "fit":  "cover",
+                      "opacity":  1,
+                      "slotNumber":  2,
+                      "radius":  0,
+                      "width":  368,
+                      "rotation":  0
+                  },
+                  {
+                      "y":  1194,
+                      "height":  477,
+                      "x":  116,
+                      "fit":  "cover",
+                      "opacity":  1,
+                      "slotNumber":  3,
+                      "radius":  0,
+                      "width":  368,
+                      "rotation":  0
+                  }
+              ]
 }

@@ -1,42 +1,42 @@
-{
-  "id": "layout-template-29",
-  "templateFile": "/templates/29.png",
-  "width": 600,
-  "height": 1800,
-  "slotCount": 3,
-  "slots": [
-    {
-      "slotNumber": 1,
-      "x": 102,
-      "y": 118,
-      "width": 448,
-      "height": 347,
-      "rotation": 0,
-      "fit": "cover",
-      "radius": 0,
-      "opacity": 1
-    },
-    {
-      "slotNumber": 2,
-      "x": 42,
-      "y": 580,
-      "width": 512,
-      "height": 440,
-      "rotation": 0,
-      "fit": "cover",
-      "radius": 0,
-      "opacity": 1
-    },
-    {
-      "slotNumber": 3,
-      "x": 42,
-      "y": 1090,
-      "width": 512,
-      "height": 375,
-      "rotation": 0,
-      "fit": "cover",
-      "radius": 0,
-      "opacity": 1
-    }
-  ]
+﻿{
+    "id":  "layout-template-29",
+    "templateFile":  "/templates/29.png",
+    "width":  600,
+    "height":  1800,
+    "slotCount":  3,
+    "slots":  [
+                  {
+                      "y":  133,
+                      "height":  335,
+                      "x":  106,
+                      "fit":  "cover",
+                      "opacity":  1,
+                      "slotNumber":  1,
+                      "radius":  0,
+                      "width":  444,
+                      "rotation":  0
+                  },
+                  {
+                      "y":  685,
+                      "height":  320,
+                      "x":  45,
+                      "fit":  "cover",
+                      "opacity":  1,
+                      "slotNumber":  2,
+                      "radius":  0,
+                      "width":  510,
+                      "rotation":  0
+                  },
+                  {
+                      "y":  1130,
+                      "height":  315,
+                      "x":  45,
+                      "fit":  "cover",
+                      "opacity":  1,
+                      "slotNumber":  3,
+                      "radius":  0,
+                      "width":  510,
+                      "rotation":  0
+                  }
+              ]
 }

@@ -1,53 +1,53 @@
-{
-  "id": "layout-template-26",
-  "templateFile": "/templates/26.png",
-  "width": 600,
-  "height": 1800,
-  "slotCount": 4,
-  "slots": [
-    {
-      "slotNumber": 1,
-      "x": 70,
-      "y": 185,
-      "width": 460,
-      "height": 288,
-      "rotation": 0,
-      "fit": "cover",
-      "radius": 0,
-      "opacity": 1
-    },
-    {
-      "slotNumber": 2,
-      "x": 70,
-      "y": 557,
-      "width": 460,
-      "height": 288,
-      "rotation": 0,
-      "fit": "cover",
-      "radius": 0,
-      "opacity": 1
-    },
-    {
-      "slotNumber": 3,
-      "x": 70,
-      "y": 930,
-      "width": 460,
-      "height": 288,
-      "rotation": 0,
-      "fit": "cover",
-      "radius": 0,
-      "opacity": 1
-    },
-    {
-      "slotNumber": 4,
-      "x": 70,
-      "y": 1303,
-      "width": 460,
-      "height": 288,
-      "rotation": 0,
-      "fit": "cover",
-      "radius": 0,
-      "opacity": 1
-    }
-  ]
+﻿{
+    "id":  "layout-template-26",
+    "templateFile":  "/templates/26.png",
+    "width":  600,
+    "height":  1800,
+    "slotCount":  4,
+    "slots":  [
+                  {
+                      "y":  221,
+                      "height":  241,
+                      "x":  102,
+                      "fit":  "cover",
+                      "opacity":  1,
+                      "slotNumber":  1,
+                      "radius":  0,
+                      "width":  407,
+                      "rotation":  0
+                  },
+                  {
+                      "y":  594,
+                      "height":  241,
+                      "x":  102,
+                      "fit":  "cover",
+                      "opacity":  1,
+                      "slotNumber":  2,
+                      "radius":  0,
+                      "width":  407,
+                      "rotation":  0
+                  },
+                  {
+                      "y":  967,
+                      "height":  241,
+                      "x":  102,
+                      "fit":  "cover",
+                      "opacity":  1,
+                      "slotNumber":  3,
+                      "radius":  0,
+                      "width":  407,
+                      "rotation":  0
+                  },
+                  {
+                      "y":  1340,
+                      "height":  241,
+                      "x":  102,
+                      "fit":  "cover",
+                      "opacity":  1,
+                      "slotNumber":  4,
+                      "radius":  0,
+                      "width":  407,
+                      "rotation":  0
+                  }
+              ]
 }
